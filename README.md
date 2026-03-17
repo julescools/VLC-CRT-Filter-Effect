@@ -2,7 +2,11 @@
 
 > **The first native CRT scanline video filter ever made for VLC media player.**
 
-VLC has over 4 billion downloads and is the world's most popular open-source media player, yet it has never had a native CRT shader plugin. Emulator communities have long enjoyed CRT simulation through RetroArch and mpv shader stacks, but VLC's plugin architecture made this a gap no one filled — until now.
+VLC has over 4 billion downloads and is the world's most popular open-source media player, yet it has never had a native CRT shader plugin.  This bothered me enough that I spent an afternoon making one. Emulator communities have long enjoyed CRT simulation through RetroArch and mpv shader stacks, but VLC's difficult plugin architecture made this a gap no one filled - until now :).  Coded in C for the video filter, and LUA for the control panel extension.
+
+The CRT effect might be partly nostalgic, but I find it also is easier on the eyes and lowers the brightness enough to be a soothing effect. Also improves the look of old recordings, anime, etc.  Enjoy!
+
+Included in the files are everything you need to build (not required), .bat installer, and files for manual install.
 
 ---## 📸 Screenshots
 
