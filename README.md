@@ -6,6 +6,136 @@ VLC has over 4 billion downloads and is the world's most popular open-source med
 
 ---
 
+## 📸 Screenshots
+
+> 💡 *Click any image to view full size.*
+
+---
+
+### Before / After Comparisons
+
+<table>
+<tr>
+<td align="center"><b>🔴 Filter OFF</b></td>
+<td align="center"><b>🟢 Filter ON</b></td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/00Off.png">
+<img src="images/00Off.png" width="400" alt="Futurama - Filter Off">
+</a>
+</td>
+<td>
+<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/00On.png">
+<img src="images/00On.png" width="400" alt="Futurama - Filter On">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/01Off.png">
+<img src="images/01Off.png" width="400" alt="Live Action - Filter Off">
+</a>
+</td>
+<td>
+<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/01On.png">
+<img src="images/01On.png" width="400" alt="Live Action - Filter On">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/02Off.png">
+<img src="images/02Off.png" width="400" alt="Live Action 2 - Filter Off">
+</a>
+</td>
+<td>
+<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/02On.png">
+<img src="images/02On.png" width="400" alt="Live Action 2 - Filter On">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/03Off.png">
+<img src="images/03Off.png" width="400" alt="Animation - Filter Off">
+</a>
+</td>
+<td>
+<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/03On.png">
+<img src="images/03On.png" width="400" alt="Animation - Filter On">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/04Off.png">
+<img src="images/04Off.png" width="400" alt="Anime - Filter Off">
+</a>
+</td>
+<td>
+<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/04On.png">
+<img src="images/04On.png" width="400" alt="Anime - Filter On">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/06Off.png">
+<img src="images/06Off.png" width="400" alt="Animation 2 - Filter Off">
+</a>
+</td>
+<td>
+<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/05On.png">
+<img src="images/05On.png" width="400" alt="Animation 2 - Filter On">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/08Off.png">
+<img src="images/08Off.png" width="400" alt="Adventure Time - Filter Off">
+</a>
+</td>
+<td>
+<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/08Onlow.png">
+<img src="images/08Onlow.png" width="400" alt="Adventure Time - Filter On (Low)">
+</a>
+</td>
+</tr>
+</table>
+
+---
+
+### 🎚️ Intensity Comparison — Low vs High
+
+<table>
+<tr>
+<td align="center"><b>🔴 Filter OFF</b></td>
+<td align="center"><b>🟡 Low Intensity</b></td>
+<td align="center"><b>🔵 High Intensity</b></td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/07Off.png">
+<img src="images/07Off.png" width="280" alt="Adventure Time - Filter Off">
+</a>
+</td>
+<td>
+<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/07Onlow.png">
+<img src="images/07Onlow.png" width="280" alt="Adventure Time - Low Intensity">
+</a>
+</td>
+<td>
+<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/07OnHigh.png">
+<img src="images/07OnHigh.png" width="280" alt="Adventure Time - High Intensity">
+</a>
+</td>
+</tr>
+</table>
+
+---
+
 ## ✨ Features
 
 🎛️ **Authentic CRT scanline simulation** — cosine-wave brightness modulation on the luma plane mimics the gaussian beam profile of real CRT phosphor lines.
