@@ -2,9 +2,11 @@
 
 > **The first native CRT scanline video filter ever made for VLC media player.**
 
-VLC has over 4 billion downloads and is the world's most popular open-source media player, yet it has never had a native CRT shader plugin.  This bothered me enough that I spent an afternoon making one. Emulator communities have long enjoyed CRT simulation through RetroArch and mpv shader stacks, but VLC's difficult plugin architecture made this a gap no one filled - until now :).  Coded in C for the video filter, and LUA for the control panel extension.
+VLC has over 4 billion downloads and is the world's most popular open-source media player, yet somehow it has never had a working native CRT shader plugin. Emulator communities have long enjoyed CRT simulation through RetroArch and mpv shader stacks, but VLC's difficult plugin architecture made this a gap no one filled — until now. This plugin is designed with ease of use in mind, have included an installer script. It's designed to be a permanent improvement to VLC, simply toggle off in menu for zero overhead and it will not turn back on until you enable it, even between opening and closing the app or switching media.
 
-The CRT effect might be partly nostalgic, but I find it also is easier on the eyes and lowers the brightness enough to be a soothing effect. Also improves the look of old recordings, anime, etc.  Enjoy!
+The effect is especially beneficial to 80s-90s era anime shows that were drawn anticipating phosphor bloom from CRT tubes. Colors were chosen for NTSC/PAL blending. Dithering patterns relied on scanline integration. While your modern copies have been de-interlaced, they look flat and lacking detail as a result. Scanlines fuse color bands, soften aliasing, and reconstruct intended gradients. This plugin will bring back the proper presentation of classic live and animated media.
+
+To install, simply right click install.bat and run as ad
 
 Included in the files are everything you need to build (not required), .bat installer, and files for manual install.
 
