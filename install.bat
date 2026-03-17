@@ -46,12 +46,10 @@ echo ============================================
 echo.
 echo Setup (one-time):
 echo   1. Start VLC
-echo   2. Disable hardware decoding:
-echo      Tools ^> Preferences ^> Input/Codecs ^> Hardware-accelerated decoding ^> Disable
-echo   3. Enable the filter:
+echo   2. Enable the filter:
 echo      Tools ^> Preferences ^> Show settings: All ^> Video ^> Filters
 echo      Check "CRT Scanline video filter" ^> Save
-echo   4. Restart VLC
+echo   3. Restart VLC
 echo.
 echo Live control:
 echo   View ^> CRT Scanline Controller
