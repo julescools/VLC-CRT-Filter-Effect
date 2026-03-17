@@ -83,8 +83,5 @@ echo   5. Go to: Tools ^> Preferences ^> Show settings: All
 echo      Then: Video ^> Filters ^> check "CRT Scanline video filter"
 echo      Click Save, restart VLC
 echo.
-echo IMPORTANT: You must disable hardware decoding for this filter to work:
-echo   Tools ^> Preferences ^> Input/Codecs ^> Hardware-accelerated decoding ^> Disable
-echo.
 
 endlocal
