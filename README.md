@@ -8,7 +8,7 @@ The effect is especially beneficial for 80s–90s era anime and broadcast-era vi
 
 When viewed on modern displays, these assumptions are lost. Deinterlacing and pixel-perfect rendering remove the vertical integration and luminance blending the content relied on, often leaving the image looking flat, harsh, overly bright and artificially noisy.
 
-This filter restores that missing layer by reintroducing controlled scanline-based luminance modulation. The result is improved gradient reconstruction, reduced aliasing, and more natural color fusion—closer to how the content was originally intended to be seen. The effect is fully adjustable, allowing subtle correction or more pronounced CRT-style presentation depending on preference.
+This filter restores that missing layer by reintroducing controlled scanline-based luminance modulation. The result is improved gradient reconstruction, reduced aliasing, and more natural color fusion—closer to how the content was originally intended to be seen. The effect is fully adjustable, allowing subtle correction or more pronounced CRT-style presentation depending on preference.  As you'll see by the screenshots below, it can also add a pleasant retro look to modern media as well.
 
 To install, simply right click install.bat and run as administrator. The bat file will automatically close VLC if open, checks for requirements and installs the video plugin and LUA menu extension. Open VLC and enable the video filter in Preferences, restart the app and you're good to go.
 
