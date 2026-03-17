@@ -5,10 +5,9 @@
 VLC has over 4 billion downloads and is the world's most popular open-source media player, yet it has never had a native CRT shader plugin. Emulator communities have long enjoyed CRT simulation through RetroArch and mpv shader stacks, but VLC's plugin architecture made this a gap no one filled — until now.
 
 ---
-
 ## 📸 Screenshots
 
-> 💡 *Click any image to view full size.*
+> 💡 *Click any thumbnail to expand. Click again to collapse.*
 
 ---
 
@@ -21,86 +20,100 @@ VLC has over 4 billion downloads and is the world's most popular open-source med
 </tr>
 <tr>
 <td>
-<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/00Off.png">
-<img src="images/00Off.png" width="400" alt="Futurama - Filter Off">
-</a>
+<details>
+<summary><img src="images/00Off.png" width="400" alt="Futurama - Filter Off"></summary>
+<img src="images/00Off.png" alt="Futurama - Filter Off (Full Size)">
+</details>
 </td>
 <td>
-<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/00On.png">
-<img src="images/00On.png" width="400" alt="Futurama - Filter On">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/01Off.png">
-<img src="images/01Off.png" width="400" alt="Live Action - Filter Off">
-</a>
-</td>
-<td>
-<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/01On.png">
-<img src="images/01On.png" width="400" alt="Live Action - Filter On">
-</a>
+<details>
+<summary><img src="images/00On.png" width="400" alt="Futurama - Filter On"></summary>
+<img src="images/00On.png" alt="Futurama - Filter On (Full Size)">
+</details>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/02Off.png">
-<img src="images/02Off.png" width="400" alt="Live Action 2 - Filter Off">
-</a>
+<details>
+<summary><img src="images/01Off.png" width="400" alt="Live Action - Filter Off"></summary>
+<img src="images/01Off.png" alt="Live Action - Filter Off (Full Size)">
+</details>
 </td>
 <td>
-<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/02On.png">
-<img src="images/02On.png" width="400" alt="Live Action 2 - Filter On">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/03Off.png">
-<img src="images/03Off.png" width="400" alt="Animation - Filter Off">
-</a>
-</td>
-<td>
-<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/03On.png">
-<img src="images/03On.png" width="400" alt="Animation - Filter On">
-</a>
+<details>
+<summary><img src="images/01On.png" width="400" alt="Live Action - Filter On"></summary>
+<img src="images/01On.png" alt="Live Action - Filter On (Full Size)">
+</details>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/04Off.png">
-<img src="images/04Off.png" width="400" alt="Anime - Filter Off">
-</a>
+<details>
+<summary><img src="images/02Off.png" width="400" alt="Live Action 2 - Filter Off"></summary>
+<img src="images/02Off.png" alt="Live Action 2 - Filter Off (Full Size)">
+</details>
 </td>
 <td>
-<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/04On.png">
-<img src="images/04On.png" width="400" alt="Anime - Filter On">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/06Off.png">
-<img src="images/06Off.png" width="400" alt="Animation 2 - Filter Off">
-</a>
-</td>
-<td>
-<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/05On.png">
-<img src="images/05On.png" width="400" alt="Animation 2 - Filter On">
-</a>
+<details>
+<summary><img src="images/02On.png" width="400" alt="Live Action 2 - Filter On"></summary>
+<img src="images/02On.png" alt="Live Action 2 - Filter On (Full Size)">
+</details>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/08Off.png">
-<img src="images/08Off.png" width="400" alt="Adventure Time - Filter Off">
-</a>
+<details>
+<summary><img src="images/03Off.png" width="400" alt="Animation - Filter Off"></summary>
+<img src="images/03Off.png" alt="Animation - Filter Off (Full Size)">
+</details>
 </td>
 <td>
-<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/08Onlow.png">
-<img src="images/08Onlow.png" width="400" alt="Adventure Time - Filter On (Low)">
-</a>
+<details>
+<summary><img src="images/03On.png" width="400" alt="Animation - Filter On"></summary>
+<img src="images/03On.png" alt="Animation - Filter On (Full Size)">
+</details>
+</td>
+</tr>
+<tr>
+<td>
+<details>
+<summary><img src="images/04Off.png" width="400" alt="Anime - Filter Off"></summary>
+<img src="images/04Off.png" alt="Anime - Filter Off (Full Size)">
+</details>
+</td>
+<td>
+<details>
+<summary><img src="images/04On.png" width="400" alt="Anime - Filter On"></summary>
+<img src="images/04On.png" alt="Anime - Filter On (Full Size)">
+</details>
+</td>
+</tr>
+<tr>
+<td>
+<details>
+<summary><img src="images/06Off.png" width="400" alt="Animation 2 - Filter Off"></summary>
+<img src="images/06Off.png" alt="Animation 2 - Filter Off (Full Size)">
+</details>
+</td>
+<td>
+<details>
+<summary><img src="images/05On.png" width="400" alt="Animation 2 - Filter On"></summary>
+<img src="images/05On.png" alt="Animation 2 - Filter On (Full Size)">
+</details>
+</td>
+</tr>
+<tr>
+<td>
+<details>
+<summary><img src="images/08Off.png" width="400" alt="Adventure Time - Filter Off"></summary>
+<img src="images/08Off.png" alt="Adventure Time - Filter Off (Full Size)">
+</details>
+</td>
+<td>
+<details>
+<summary><img src="images/08Onlow.png" width="400" alt="Adventure Time - Filter On"></summary>
+<img src="images/08Onlow.png" alt="Adventure Time - Filter On (Full Size)">
+</details>
 </td>
 </tr>
 </table>
@@ -117,19 +130,22 @@ VLC has over 4 billion downloads and is the world's most popular open-source med
 </tr>
 <tr>
 <td>
-<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/07Off.png">
-<img src="images/07Off.png" width="280" alt="Adventure Time - Filter Off">
-</a>
+<details>
+<summary><img src="images/07Off.png" width="280" alt="Off"></summary>
+<img src="images/07Off.png" alt="Off (Full Size)">
+</details>
 </td>
 <td>
-<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/07Onlow.png">
-<img src="images/07Onlow.png" width="280" alt="Adventure Time - Low Intensity">
-</a>
+<details>
+<summary><img src="images/07Onlow.png" width="280" alt="Low Intensity"></summary>
+<img src="images/07Onlow.png" alt="Low Intensity (Full Size)">
+</details>
 </td>
 <td>
-<a href="https://github.com/julescools/VLC-CRT-Filter-Effect/raw/main/images/07OnHigh.png">
-<img src="images/07OnHigh.png" width="280" alt="Adventure Time - High Intensity">
-</a>
+<details>
+<summary><img src="images/07OnHigh.png" width="280" alt="High Intensity"></summary>
+<img src="images/07OnHigh.png" alt="High Intensity (Full Size)">
+</details>
 </td>
 </tr>
 </table>
