@@ -8,7 +8,9 @@ The CRT effect might be partly nostalgic, but I find it also is easier on the ey
 
 Included in the files are everything you need to build (not required), .bat installer, and files for manual install.
 
----## 📸 Screenshots
+---
+
+## 📸 Screenshots
 
 ---
 
