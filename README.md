@@ -2,13 +2,15 @@
 
 > **The first native CRT scanline video filter ever made for VLC media player.**
 
-VLC has over 4 billion downloads and is the world's most popular open-source media player, yet somehow it has never had a working native CRT shader plugin. Emulator communities have long enjoyed CRT simulation through RetroArch and mpv shader stacks, but VLC's difficult plugin architecture made this a gap no one filled — until now. This plugin is designed with ease of use in mind, with an included installer script. It's designed to be a permanent improvement to VLC - simply toggle off in menu for zero overhead and it will not turn back on until you enable it, even between opening and closing the app or switching media.
+VLC has over 4 billion downloads and is the world's most popular open-source media player, yet somehow it has never had a working native CRT shader plugin. Emulation communities have long enjoyed CRT simulation through RetroArch and mpv shader stacks, but VLC's difficult plugin architecture made this a gap no one filled — until now. This plugin is designed with ease of use in mind, with an included smart installer script. It's designed to be a permanent improvement to VLC, simply toggle off in menu for zero overhead and it will not turn back on until you enable it, even between opening and closing the app or switching media.
 
-The effect is especially beneficial to 80s-90s era anime shows that were drawn anticipating phosphor bloom from CRT tubes. Colors were chosen for NTSC/PAL blending. Dithering patterns relied on scanline integration. While your modern copies have been de-interlaced, they look flat and lacking detail as a result. Scanlines fuse color bands, soften aliasing, and reconstruct intended gradients. This plugin will bring back the proper presentation of classic live and animated media, with scan lines that are easily and fully adjustable to your desired result.
+The effect is especially beneficial for 80s–90s era anime and broadcast-era video, which were created with CRT display characteristics in mind. These works assumed phosphor bloom, scanline structure, and NTSC/PAL signal blending as part of the final image formation. Color choices, shading, and even dithering patterns were designed to integrate across scanlines and soften through analog display behavior.
 
-To install, simply right click install.bat and run as admin (changes to VLC install directory require elevated access).
+When viewed on modern displays, these assumptions are lost. Deinterlacing and pixel-perfect rendering remove the vertical integration and luminance blending the content relied on, often leaving the image looking flat, harsh, overly bright and artificially noisy.
 
-Included in the files are everything you need to build (not required), .bat installer, and files for manual install.
+This filter restores that missing layer by reintroducing controlled scanline-based luminance modulation. The result is improved gradient reconstruction, reduced aliasing, and more natural color fusion—closer to how the content was originally intended to be seen. The effect is fully adjustable, allowing subtle correction or more pronounced CRT-style presentation depending on preference.
+
+To install, simply right click install.bat and run as administrator. The bat file will automatically close VLC if open, checks for requirements and installs the video plugin and LUA menu extension. Open VLC and enable the video filter in Preferences, restart the app and you're good to go.
 
 ---
 
