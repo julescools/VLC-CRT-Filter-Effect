@@ -41,7 +41,7 @@ Included in the files are everything you need to build (not required), .bat inst
 
 📐 **Resolution-aware auto-scaling** — scanline spacing scales relative to 480p (NTSC reference), and darkness scales relative to 1080p. A 360p video gets fine, subtle lines; a 1080p video gets the full effect. The visual density stays consistent regardless of source resolution.
 
-⚡ **Zero-cost bypass** — setting darkness to 0 short-circuits the filter entirely, passing frames through with no processing overhead.
+⚡ **Zero-cost bypass** — Simply turn it on or off in the view menu - Off short-circuits the filter entirely, passing frames through with no processing overhead.
 
 🎚️ **Live adjustment via Lua extension** — a companion control panel (`View → CRT Scanline Controller`) lets you adjust darkness, spacing, and blend mode in real time during playback without restarting VLC.
 
