@@ -140,12 +140,6 @@ vlc --video-filter=crtscanline --crtscanline-darkness=50 --crtscanline-spacing=3
 
 ---
 
-## 💡 Why This Didn't Exist Before
-
-VLC, unlike mpv or RetroArch, does not expose a user-facing shader pipeline. GPU effects must be compiled as C modules linked against VLC's internal API.
-
----
-
 ## 📄 License
 
 LGPL v2.1+ (same as VLC)
