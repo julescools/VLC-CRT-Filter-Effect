@@ -4,7 +4,7 @@
 
 VLC has over 4 billion downloads and is the world's most popular open-source media player, yet somehow it has never had a working native CRT shader plugin. Emulation communities have long enjoyed CRT simulation through RetroArch and mpv shader stacks, but VLC's difficult plugin architecture made this a gap no one filled — until now. This plugin is designed with ease of use in mind, with an included smart installer script. It's designed to be a permanent improvement to VLC, simply toggle off in menu for zero overhead and it will not turn back on until you enable it, even between opening and closing the app or switching media.
 
-Before I go on about the benefits of reintroducing scan lines to de-interlaced old media, this addon will be perfect for DIY retro TV projects, I hope you all enjoy.
+Before I go on about the benefits of reintroducing scan lines to de-interlaced old media, this addon will be perfect for DIY retro TV projects, I hope you all enjoy.  The scanlines can be adjusted as dark as you'd like to match your desired aesthetic.
 
 The effect is especially beneficial for 80s–90s era anime and broadcast-era video, which were created with CRT display characteristics in mind. These works assumed phosphor bloom, scanline structure, and NTSC/PAL signal blending as part of the final image formation. Color choices, shading, and even dithering patterns were designed to integrate across scanlines and soften through analog display behavior.
 
